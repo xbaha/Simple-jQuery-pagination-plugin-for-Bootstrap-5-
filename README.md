@@ -20,7 +20,7 @@ Add the following to your js file:
 
 ```javascript
 
-    $('#mypagination1').pagination({
+    $('#mypagination').pagination({
         items: 20,              // Total Pages
         displayedPages: 7,      // Paginated Pages Shown
         currentPage: 1,

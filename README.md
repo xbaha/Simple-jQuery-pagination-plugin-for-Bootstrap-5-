@@ -39,4 +39,4 @@ Add the following to your js file:
 
 
 ## Demo 
-For more information [Check Demo Pagination here](https://optimistic-turing-dfd775.netlify.app) 
+For more information [Check Demo Pagination here](https://sjqpagination.netlify.app) 

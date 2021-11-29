@@ -1,6 +1,6 @@
 # Simple jQuery pagination plugin for Bootstrap 5+
 
-(images/pagination.png)
+![pagination](images/pagination.png)
 
 ### Basic usage ###
 
